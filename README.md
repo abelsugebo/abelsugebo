@@ -21,6 +21,7 @@ From 2021 to 2025 I led investigations at Inform Africa and its fact-checking ar
 |---|---|
 | [Using the DISARM Framework in Research](https://data-knowledge-hub.com/docs/data-analysis/04_04_disarm-framework/) (Data Knowledge Hub, 2025) | Methods guide: DISARM tactics and techniques, campaign phases, Red and Blue frameworks, and limits of the approach |
 | [disarm-case-coding](https://github.com/abelsugebo/disarm-case-coding) | Open toolkit putting the guide into practice: codebook, evidence-log and mapping templates, validation script, and a fully coded Ethiopia case study |
+| [checked-fact-checking-method](https://github.com/abelsugebo/checked-fact-checking-method) | HaqCheck's CHECKED fact-checking workflow, rating scale, and correction policy, with templates and a ClaimReview converter |
 
 #### Focus areas
 
